@@ -1,8 +1,6 @@
 package me.xunix.P1116;
 
-interface IntConsumer {
-  void accept(int x);
-}
+import java.util.function.IntConsumer;
 
 class ZeroEvenOdd {
   private int n;
