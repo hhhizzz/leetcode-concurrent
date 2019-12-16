@@ -1,5 +1,7 @@
 package me.xunix.P1116;
 
+import java.util.function.IntConsumer;
+
 public class ZeroEvenOddTest {
   public static void main(String[] args) throws InterruptedException {
     int n = 5;
